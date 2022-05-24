@@ -78,6 +78,11 @@ img {
   height: auto;
 }
 
+*:focus {
+  outline: 4px dotted #139add;
+  outline-offset: 3px;
+}
+
 a {
   text-decoration: none;
 }
